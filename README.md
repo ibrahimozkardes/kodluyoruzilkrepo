@@ -21,3 +21,11 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Lisence
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Proje Resmi
+
+[proje](https://imgyukle.com/i/Vt8o5n)
+
+## Patika.dev
+
+[Profilime ulaşmak için tıklayınız.](https://app.patika.dev/ozkardes)
